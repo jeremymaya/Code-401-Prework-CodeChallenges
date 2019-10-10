@@ -23,7 +23,7 @@ Create a Console application that does the following:
 2. Output an array containing the 5 numbers to the console
 3. Ask user to input 1 number from the selected 5 numbers
 3. Output the score of the number chosen by:
-  * # * frequency of the #
+  * selected number x frequency of the number
 
 ### Reflections and Comments
-* N/A
+* C# is a type strict language that differs from JavaScript

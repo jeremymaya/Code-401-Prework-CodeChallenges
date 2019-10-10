@@ -15,14 +15,17 @@ Criteria for the challenge includes
 * This challenge will be completed via Visual Studio Community Version
 
 ### Problem 1: Array Max Result
+Given an array select a number that exists, and output the computated “score”. The method you create should take in both an array of integers and the integer the user selected.  
 
-### Problem 1 Instruction
 Create a Console application that does the following: 
 1. Ask user to input 5 numbers from 1 to 10
 2. Output an array containing the 5 numbers to the console
 3. Ask user to input 1 number from the selected 5 numbers
 3. Output the score of the number chosen by:
     * selected number x frequency of the number
+
+### Problem 2: Leap Year Calculator
+Given a year, report if it is a leap year.
 
 ### Reflections and Comments
 * C# is a type strict language that differs from JavaScript

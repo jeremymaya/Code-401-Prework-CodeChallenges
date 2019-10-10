@@ -1,0 +1,11 @@
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.exe
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.deps.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.runtimeconfig.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.runtimeconfig.dev.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\bin\Debug\netcoreapp3.0\ArrayMaxResult.pdb
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\obj\Debug\netcoreapp3.0\ArrayMaxResult.csprojAssemblyReference.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\obj\Debug\netcoreapp3.0\ArrayMaxResult.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\obj\Debug\netcoreapp3.0\ArrayMaxResult.AssemblyInfo.cs
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\obj\Debug\netcoreapp3.0\ArrayMaxResult.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\ArrayMaxResult\ArrayMaxResult\obj\Debug\netcoreapp3.0\ArrayMaxResult.pdb

@@ -14,5 +14,15 @@ Criteria for the challenge includes
 ### Setup
 * This challenge will be completed via Visual Studio Community Version
 
+### Problem 1: Array Max Result
+
+### Problem 1 Instruction
+Create a Console application that does the following: 
+1. Ask user to input 5 numbers from 1 to 10
+2. Output an array containing the 5 numbers to the console
+3. Ask user to input 1 number from the selected 5 numbers
+3. Output the score of the number chosen by:
+    * selected number x frequency of the number
+
 ### Reflections and Comments
-* N/A
+* C# is a type strict language that differs from JavaScript

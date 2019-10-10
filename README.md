@@ -9,7 +9,6 @@ Criteria for the challenge includes
 ### Author: Kyungrae Kim
 
 ### Links and Resources
-* [submission PR]
 * https://codefellows.github.io/code-401-dotnet-prework/code-challenges.htmlreference
 
 ### Setup

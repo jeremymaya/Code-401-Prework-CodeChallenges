@@ -1,0 +1,11 @@
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.exe
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.deps.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.runtimeconfig.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.runtimeconfig.dev.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\bin\Debug\netcoreapp3.0\LeapYearCalculator.pdb
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\obj\Debug\netcoreapp3.0\LeapYearCalculator.csprojAssemblyReference.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\obj\Debug\netcoreapp3.0\LeapYearCalculator.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\obj\Debug\netcoreapp3.0\LeapYearCalculator.AssemblyInfo.cs
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\obj\Debug\netcoreapp3.0\LeapYearCalculator.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\LeapYearCalculator\LeapYearCalculator\obj\Debug\netcoreapp3.0\LeapYearCalculator.pdb

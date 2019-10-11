@@ -36,6 +36,8 @@ namespace PreworkCodeChallenges
             }
             else if (result == "3")
             {
+                Console.Clear();
+
                 int[] arr0 = { 2, 2 };
                 int[] arr1 = { 1, 3, 2 };
                 int[] arr2 = { 0, 0, 0, 0 };
@@ -54,7 +56,7 @@ namespace PreworkCodeChallenges
             {
                 int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
 
-                Console.WriteLine("{" + string.Join(",", CodeChallenge4(myArray)) + "}");
+                CodeChallenge4(myArray);
                 Console.ReadLine();
                 return true;
             }
@@ -165,7 +167,6 @@ namespace PreworkCodeChallenges
 
         private static void CodeChallenge3(int[] arr)
         {
-            Console.Clear();
             int product = 1;
             int sum = 0;
             foreach (var number in arr)
@@ -178,10 +179,11 @@ namespace PreworkCodeChallenges
             }
             string result = (product == sum) ? "Yes" : "No";
 
-            Console.WriteLine(result);
+            Console.WriteLine("INPUT: [" + string.Join(", ", arr) + "]");
+            Console.WriteLine("OUTPUT: " + result);
         }
 
-        private static int[] CodeChallenge4(int[,] arr)
+        private static void CodeChallenge4(int[,] arr)
         {
             Console.Clear();
             int[] sums = new int[arr.GetLength(0)];
@@ -194,7 +196,8 @@ namespace PreworkCodeChallenges
                 }
                 sums[i] = sum;
             }
-            return sums;
+            Console.WriteLine("INPUT: int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } }");
+            Console.WriteLine("OUTPUT: {" + string.Join(",", sums) + "}");
         }
     }
 }

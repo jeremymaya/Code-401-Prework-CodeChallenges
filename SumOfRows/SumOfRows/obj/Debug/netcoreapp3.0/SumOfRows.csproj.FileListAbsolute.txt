@@ -1,0 +1,11 @@
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.exe
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.deps.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.runtimeconfig.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.runtimeconfig.dev.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\bin\Debug\netcoreapp3.0\SumOfRows.pdb
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\obj\Debug\netcoreapp3.0\SumOfRows.csprojAssemblyReference.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\obj\Debug\netcoreapp3.0\SumOfRows.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\obj\Debug\netcoreapp3.0\SumOfRows.AssemblyInfo.cs
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\obj\Debug\netcoreapp3.0\SumOfRows.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\SumOfRows\SumOfRows\obj\Debug\netcoreapp3.0\SumOfRows.pdb

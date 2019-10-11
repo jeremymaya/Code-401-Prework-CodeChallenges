@@ -27,5 +27,8 @@ Create a Console application that does the following:
 ### Problem 2: Leap Year Calculator
 Given a year, report if it is a leap year.
 
+### Problem 3: Perfect Sequence
+Given an array, return “Yes” if the sequence is considered a perfect sequence. Otherwise, return “No”
+
 ### Reflections and Comments
 * C# is a type strict language that differs from JavaScript

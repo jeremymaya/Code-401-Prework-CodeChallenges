@@ -13,6 +13,7 @@ Criteria for the challenge includes
 
 ### Setup
 * This challenge will be completed via Visual Studio Community Version
+
 ![alt text](https://github.com/jeremymaya/Code-401-Prework-CodeChallenges/blob/master/Screenshots/Menu.JPG "Menu")
 
 ## Problem 1: Array Max Result

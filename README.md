@@ -24,6 +24,8 @@ Create a Console application that does the following:
 3. Output the score of the number chosen by:
     * selected number x frequency of the number
 
+![alt text](https://github.com/jeremymaya/Code-401-Prework-CodeChallenges/blob/master/Screenshots/Problem01.JPG "Problem 1")
+
 ## Problem 2: Leap Year Calculator
 Given a year, report if it is a leap year.
 

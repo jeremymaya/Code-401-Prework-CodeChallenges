@@ -1,0 +1,11 @@
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.exe
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.deps.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.runtimeconfig.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.runtimeconfig.dev.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\bin\Debug\netcoreapp3.0\PerfectSequence.pdb
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\obj\Debug\netcoreapp3.0\PerfectSequence.csprojAssemblyReference.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\obj\Debug\netcoreapp3.0\PerfectSequence.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\obj\Debug\netcoreapp3.0\PerfectSequence.AssemblyInfo.cs
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\obj\Debug\netcoreapp3.0\PerfectSequence.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PerfectSequence\PerfectSequence\obj\Debug\netcoreapp3.0\PerfectSequence.pdb

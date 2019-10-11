@@ -15,7 +15,7 @@ Criteria for the challenge includes
 * This challenge will be completed via Visual Studio Community Version
 
 ## Problem 1: Array Max Result
-Given an array select a number that exists, and output the computated “score”. The method you create should take in both an array of integers and the integer the user selected.  
+Given an array select a number that exists, and output the computated â€œscoreâ€. The method you create should take in both an array of integers and the integer the user selected.  
 
 Create a Console application that does the following: 
 1. Ask user to input 5 numbers from 1 to 10
@@ -28,10 +28,10 @@ Create a Console application that does the following:
 Given a year, report if it is a leap year.
 
 ## Problem 3: Perfect Sequence
-Given an array, return “Yes” if the sequence is considered a perfect sequence. Otherwise, return “No”
+Given an array, return â€œYesâ€ if the sequence is considered a perfect sequence. Otherwise, return â€œNoâ€
 
 ## Problem 4: Sum of Rows
 Given a matrix of integers. Return the sum of each row in a single dimensional array.
 
-### Reflections and Comments
+## Reflections and Comments
 * C# is a type strict language that differs from JavaScript

@@ -1,0 +1,11 @@
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.exe
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.deps.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.runtimeconfig.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.runtimeconfig.dev.json
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\bin\Debug\netcoreapp3.0\PreworkCodeChallenges.pdb
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\obj\Debug\netcoreapp3.0\PreworkCodeChallenges.csprojAssemblyReference.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\obj\Debug\netcoreapp3.0\PreworkCodeChallenges.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\obj\Debug\netcoreapp3.0\PreworkCodeChallenges.AssemblyInfo.cs
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\obj\Debug\netcoreapp3.0\PreworkCodeChallenges.dll
+C:\Users\Jeremiah\OneDrive\code-401\prework\Code-401-Prework-CodeChallenges\PreworkCodeChallenges\obj\Debug\netcoreapp3.0\PreworkCodeChallenges.pdb
